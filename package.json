@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "cd test && nw .",
-    "install": "nw-gyp --target=0.14.5 configure && nw-gyp build"
+    "install": "nw-gyp --target=0.15.4 configure && nw-gyp build"
   },
   "repository": {
     "type": "git",
